@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Car Management</string>
+    <string name="addCar_app_name">Add Car</string>
+    <string name="carList_app_name">My cars</string>
+    <string name="rateUs_app_name">Rate our app</string>
+    <string name="view_from_database_app_name">Car Inspections</string>
+    <string name="auto_services_map_app_name">Map</string>
+    <string name="grafic_app_name">Investments</string>
+
+    <string name="main_menu_home">Home</string>
+    <string name="main_menu_my_cars">My cars</string>
+    <string name="main_menu_view_from_database">Car inspections</string>
+    <string name="main_menu_auto_services_map">My auto services</string>
+    <string name="main_menu_grafic">Investments</string>
+    <string name="main_menu_daily_update">Daily update</string>
+    <string name="main_menu_rate_us">Rate us</string>
+    <string name="main_menu_exit">Exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="add_car">Add a new car</string>
+    <string name="import_from_json">Import from JSON</string>
+    <string name="clear_local_database">Clear local database</string>
+    <string name="view_local_database">View local database</string>
+
+    <string name="insert_name">Insert name</string>
+    <string name="insert_brand">Choose brand</string>
+    <string name="insert_model">Insert model</string>
+    <string name="insert_purchaseDate">Insert purchase date</string>
+    <string name="insert_price">Insert purchase price</string>
+    <string name="select_motorType">Select motor type</string>
+    <string name="select_transmissionType">Select transmission type</string>
+    <string name="insert_kilometers">Insert no. of km</string>
+
+    <string-array name="brand_name">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Dacia</item>
+        <item>Fiat</item>
+        <item>Ford</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Kia</item>
+        <item>Land Rover</item>
+        <item>Mazda</item>
+        <item>Mercedes</item>
+        <item>Nissan</item>
+        <item>Opel</item>
+        <item>Peugeot</item>
+        <item>Renault</item>
+        <item>Mitsubishi</item>
+        <item>Seat</item>
+        <item>Skoda</item>
+        <item>Subaru</item>
+        <item>Suzuki</item>
+        <item>Toyota</item>
+        <item>Volkswagen</item>
+        <item>Volvo</item>
+    </string-array>
+
+    <string-array name="motor_type">
+        <item>Gasoline</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+        <item>Hybrid</item>
+    </string-array>
+
+    <string-array name="transmission_type">
+        <item>Manual</item>
+        <item>Automatic</item>
+    </string-array>
+
+    <string-array name="services">
+        <item>Capital Service Auto</item>
+        <item>Bosch Car Service</item>
+        <item>Contact Auto Service</item>
+        <item>Diamond Auto Service</item>
+    </string-array>
+
+    <string-array name="inspectionsDates">
+        <item>21/01/2021</item>
+        <item>29/01/2021</item>
+        <item>05/02/2021</item>
+        <item>10/02/2021</item>
+        <item>14/02/2021</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "647265594371",
+    "project_id": "carmanagement-3edbe",
+    "storage_bucket": "carmanagement-3edbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647265594371:android:bf783c3de7ccf6b764f236",
+        "android_client_info": {
+          "package_name": "com.example.carmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647265594371-nmrvpcq18om71to16g42khsvcl4vu31u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiGHsE3rDvGGu32tELxCL-MsYj8-HG3ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647265594371-nmrvpcq18om71to16g42khsvcl4vu31u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

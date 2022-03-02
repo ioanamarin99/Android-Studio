@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DailyUpdateActivity">
+
+        <PreferenceCategory
+            android:title="Daily update">
+            <CheckBoxPreference
+                android:key="cbRefuel"
+                android:summary="Have you refueled your car today?"
+                android:title="Refueling" />
+            <EditTextPreference
+                android:key="etPayment"
+                android:defaultValue=""
+                android:summary="How much did you pay?"
+                android:title="Payment" />
+            <SwitchPreference
+                android:key="switch"
+                android:title="Everything okay?"/>
+        </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/main_menu_home"
+            android:icon="@drawable/ic_baseline_home" />
+        <item
+            android:id="@+id/nav_car_list"
+            android:title="@string/main_menu_my_cars"
+            android:icon="@drawable/ic_baseline_directions_car"/>
+        <item
+            android:id="@+id/nav_view_from_database"
+            android:title="@string/main_menu_view_from_database"
+            android:icon="@drawable/ic_baseline_construction"/>
+        <item
+            android:id="@+id/nav_auto_services_map"
+            android:title="@string/main_menu_auto_services_map"
+            android:icon="@drawable/ic_baseline_location_on"/>
+        <item
+            android:id="@+id/nav_grafic"
+            android:title="@string/main_menu_grafic"
+            android:icon="@drawable/ic_baseline_auto_graph"/>
+        <item
+            android:id="@+id/nav_daily_update"
+            android:title="@string/main_menu_daily_update"
+            android:icon="@drawable/ic_baseline_update"/>
+        <item
+            android:id="@+id/nav_rate_us"
+            android:title="@string/main_menu_rate_us"
+            android:icon="@drawable/ic_baseline_star_rate"/>
+        <item 
+            android:id="@+id/nav_exit"
+            android:title="@string/main_menu_exit"
+            android:icon="@drawable/ic_baseline_exit_to_app"/>
+
+    </group>
+
+</menu>
